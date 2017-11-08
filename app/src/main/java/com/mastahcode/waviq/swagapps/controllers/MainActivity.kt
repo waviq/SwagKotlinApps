@@ -1,7 +1,8 @@
-package com.mastahcode.waviq.swagapps
+package com.mastahcode.waviq.swagapps.controllers
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.mastahcode.waviq.swagapps.R
 
 class MainActivity : AppCompatActivity() {
 
